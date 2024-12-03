@@ -1,4 +1,20 @@
-## Hi there 👋
+# **[Danfort Kenneth Garcia]**
+
+
+**Education**
+
+* **Bachelor of Science in Information Technology]**
+  * New Era Universoty
+  * Second year
+
+**Certifications**
+
+ **SQL and Relational Databases 101**
+  * 
+
+
+**Skills** :none 
+
 
 <!--
 **danfortkenneth/danfortkenneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,8 +9,8 @@
 
 **Certifications**
 
- **SQL and Relational Databases 101**
-  * 
+ * **SQL and Relational Databases 101**
+  * https://courses.cognitiveclass.ai/certificates/ebf16cd739e64209a6bd8c3718d80015
 
 
 **Skills** :none 

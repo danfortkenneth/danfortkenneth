@@ -4,7 +4,7 @@
 **Education**
 
 * **Bachelor of Science in Information Technology**
-  * New Era Universoty
+  * New Era University
   * Second year
 
 **Certifications**

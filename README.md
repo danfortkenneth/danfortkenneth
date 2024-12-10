@@ -1,9 +1,9 @@
-# **[Danfort Kenneth Garcia]**
+# **Danfort Kenneth Garcia**
 
 
 **Education**
 
-* **Bachelor of Science in Information Technology]**
+* **Bachelor of Science in Information Technology**
   * New Era Universoty
   * Second year
 
@@ -11,6 +11,9 @@
 
  * **SQL and Relational Databases 101**
    * https://courses.cognitiveclass.ai/certificates/ebf16cd739e64209a6bd8c3718d80015
+  
+   *  **Oracle Cloud Infrastructure Foundations Associate course**
+   *  
 
  * **Oracle Cloud Infrastructure 2024 Data Foundations Associate**
    * 🔗https://catalog-education.oracle.com/ords/certview/sharebadge?id=4B4FEEF0A9CEBA76E657208986A1281EE63F7C781436DE3EEA3FD201708DC264

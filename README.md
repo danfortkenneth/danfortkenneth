@@ -12,7 +12,7 @@
  * **SQL and Relational Databases 101**
    * https://courses.cognitiveclass.ai/certificates/ebf16cd739e64209a6bd8c3718d80015
 
- * **Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate**
+ * **Oracle Cloud Infrastructure 2024 Data Foundations Associate**
    * 🔗https://catalog-education.oracle.com/ords/certview/sharebadge?id=4B4FEEF0A9CEBA76E657208986A1281EE63F7C781436DE3EEA3FD201708DC264
      ![image](https://github.com/user-attachments/assets/c7d9eb4b-cb2d-44f1-8dec-7c9491427e52)
 
